@@ -5,6 +5,9 @@ build/
 dist/
 wheels/
 *.egg-info
+SUPERVISED/Linear Regression/zameen.csv
+SUPERVISED/Linear Regression/archive.zip
+SUPERVISED/Linear Regression/.ipynb_checkpoints/
 
 # Virtual environments
 .venv
