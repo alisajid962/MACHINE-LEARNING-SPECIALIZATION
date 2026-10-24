@@ -22,7 +22,7 @@ print(f"Learned Bias (b): {b:.2f}")
 
 new_input=np.array([[0]])
 prediction=model.predict(new_input)
-print(prediction)
+print("predictions",prediction)
 print("======================")
 
 predictions=model.predict(X)
