@@ -45,4 +45,4 @@ final_w, final_b, J_hist = gradient_descent_with_history(
 print("\n--- Final Results ---")
 print(f"Optimized Weights: {final_w}")
 print(f"Optimized Bias: {final_b:.4f}")
-print(f"History______________________________Bro______________________{J_hist}")
+print(f"History_____________________________Bro______________________{J_hist}")
